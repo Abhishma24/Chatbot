@@ -1,0 +1,613 @@
+Student_Query,Target_Intent
+What is the course syllabus structure details?,course_syllabus
+tell me the syllabus,course_syllabus
+സിലബസിന്റെ ഘടന എന്താണ്?,course_syllabus
+How many subjects are included course semester?,course_subjects
+subjects per sem,course_subjects
+ഒരു സെമസ്റ്ററിൽ എത്ര വിഷയങ്ങൾ ഉണ്ട്?,course_subjects
+What is course duration total years?,course_duration
+how long is the course,course_duration
+കോഴ്സിന്റെ കാലാവധി എത്രയാണ്?,course_duration
+Is this course approved university recognition?,course_recognition
+is it university approved,course_recognition
+ഇതിന് യൂണിവേഴ്സിറ്റി അംഗീകാരം ഉണ്ടോ?,course_recognition
+What are course eligibility criteria requirements?,course_eligibility
+eligibility for admission,course_eligibility
+യോഗ്യതാ മാനദണ്ഡങ്ങൾ എന്തൊക്കെയാണ്?,course_eligibility
+Does course include internship training program?,course_internship
+any internships provided,course_internship
+ഇന്റേൺഷിപ്പ് ഉണ്ടോ?,course_internship
+What are course learning outcomes expected?,course_learning_outcomes
+what will i learn,course_learning_outcomes
+എന്തൊക്കെയാണ് പഠിക്കാൻ കഴിയുക?,course_learning_outcomes
+How to download course curriculum PDF?,download_curriculum
+download syllabus pdf,download_curriculum
+സിലബസ് PDF എങ്ങനെ ഡൗൺലോഡ് ചെയ്യാം?,download_curriculum
+Is course available online offline mode?,course_delivery_mode
+is there online classes,course_delivery_mode
+ഓൺലൈൻ ക്ലാസുകൾ ലഭ്യമാണോ?,course_delivery_mode
+What is course specialization options available?,course_specializations
+what specializations do u offer,course_specializations
+ഏതൊക്കെ സ്പെഷ്യലൈസേഷൻ ലഭ്യമാണ്?,course_specializations
+How many credits required course completion?,course_credits
+total credits to pass,course_credits
+എത്ര ക്രെഡിറ്റുകൾ വേണം?,course_credits
+What is course admission process steps?,course_admission_process
+how to apply,course_admission_process
+അഡ്മിഷൻ നടപടികൾ എന്തൊക്കെയാണ്?,course_admission_process
+Are there elective subjects course structure?,course_electives
+do we have electives,course_electives
+ഇലക്ടീവ് വിഷയങ്ങൾ ഉണ്ടോ?,course_electives
+What is course fee structure details?,course_fee_structure
+how much is the fees,course_fee_structure
+ഫീസ് എത്രയാണ്?,course_fee_structure
+Is course suitable beginners background students?,course_beginner_friendly
+im a beginner can i join,course_beginner_friendly
+തുടക്കക്കാർക്ക് ഇത് പഠിക്കാമോ?,course_beginner_friendly
+What is course industry relevance scope?,course_industry_scope
+job scope for this course,course_industry_scope
+ഇതിന്റെ തൊഴിൽ സാധ്യതകൾ എന്താണ്?,course_industry_scope
+Are practical labs included course syllabus?,course_practical_labs
+do we have practicals,course_practical_labs
+പ്രാക്ടിക്കൽ ലാബുകൾ ഉണ്ടോ?,course_practical_labs
+How to change course specialization option?,change_specialization
+can i switch my specialization,change_specialization
+സ്പെഷ്യലൈസേഷൻ മാറ്റാൻ കഴിയുമോ?,change_specialization
+What is course semester system pattern?,semester_system
+how does the semester system work,semester_system
+സെമസ്റ്റർ രീതി എങ്ങനെയാണ്?,semester_system
+Does course include project work mandatory?,course_project_work
+is final year project compulsory,course_project_work
+പ്രോജക്ട് നിർബന്ധമാണോ?,course_project_work
+What is course language medium instruction?,course_instruction_language
+medium of teaching,course_instruction_language
+പഠന മാധ്യമം ഏതാണ്?,course_instruction_language
+Are there certification exams course included?,course_certifications
+do we get certificates,course_certifications
+സർട്ടിഫിക്കറ്റ് ലഭിക്കുമോ?,course_certifications
+What is course upgrade option availability?,course_upgrade_options
+can i upgrade my course,course_upgrade_options
+കോഴ്സ് അപ്ഗ്രേഡ് ചെയ്യാൻ കഴിയുമോ?,course_upgrade_options
+Can students switch course mid semester?,switch_course_mid_semester
+change course midway,switch_course_mid_semester
+സെമസ്റ്ററിന്റെ ഇടയിൽ കോഴ്സ് മാറ്റാമോ?,switch_course_mid_semester
+What is course accreditation status details?,course_accreditation
+is this naac accredited,course_accreditation
+കോഴ്സിന് അംഗീകാരം ഉണ്ടോ?,course_accreditation
+How to check course availability seats?,course_seat_availability
+how many seats left,course_seat_availability
+എത്ര സീറ്റുകൾ ബാക്കിയുണ്ട്?,course_seat_availability
+What is course registration last date?,course_registration_deadline
+last date to apply,course_registration_deadline
+അപേക്ഷിക്കേണ്ട അവസാന തീയതി എന്നാണ്?,course_registration_deadline
+Are bridge courses available new students?,course_bridge_program
+bridge course for freshers,course_bridge_program
+ബ്രിഡ്ജ് കോഴ്സുകൾ ലഭ്യമാണോ?,course_bridge_program
+What is course evaluation method used?,course_evaluation_method
+how are we graded,course_evaluation_method
+മൂല്യനിർണ്ണയ രീതി എങ്ങനെയാണ്?,course_evaluation_method
+Is there course orientation program schedule?,course_orientation
+when is orientation day,course_orientation
+ഓറിയന്റേഷൻ പ്രോഗ്രാം എപ്പോഴാണ്?,course_orientation
+What is assignment submission deadline policy?,assignment_deadline
+assignment due date,assignment_deadline
+അസൈൻമെന്റ് സമർപ്പിക്കേണ്ട അവസാന തീയതി?,assignment_deadline
+How to upload assignment online portal?,assignment_upload_portal
+where to submit assignment online,assignment_upload_portal
+അസൈൻമെന്റ് എങ്ങനെ അപ്‌ലോഡ് ചെയ്യാം?,assignment_upload_portal
+What is assignment format document requirements?,assignment_format_requirements
+pdf or word format,assignment_format_requirements
+ഏത് ഫോർമാറ്റിലാണ് നൽകേണ്ടത്?,assignment_format_requirements
+Are handwritten assignments allowed submission?,handwritten_assignments
+can i handwrite the assignment,handwritten_assignments
+കൈകൊണ്ട് എഴുതിയത് നൽകാമോ?,handwritten_assignments
+What is late submission penalty marks?,late_submission_penalty
+marks cut for late submission,late_submission_penalty
+വൈകി നൽകിയാൽ മാർക്ക് കുറയുമോ?,late_submission_penalty
+How many assignments per subject required?,assignments_per_subject
+total assignments per sem,assignments_per_subject
+ഒരു വിഷയത്തിന് എത്ര അസൈൻമെന്റ് വേണം?,assignments_per_subject
+What is plagiarism policy assignment rules?,assignment_plagiarism_policy
+plagarism rules,assignment_plagiarism_policy
+കോപ്പിയടിച്ചാലുള്ള നിയമങ്ങൾ എന്താണ്?,assignment_plagiarism_policy
+Can assignment be resubmitted corrections?,assignment_resubmission
+resubmit my assignment,assignment_resubmission
+തെറ്റുകൾ തിരുത്തി വീണ്ടും നൽകാമോ?,assignment_resubmission
+What is assignment grading criteria details?,assignment_grading_criteria
+how are assignments marked,assignment_grading_criteria
+മാർക്ക് നൽകുന്ന മാനദണ്ഡങ്ങൾ എന്തൊക്കെ?,assignment_grading_criteria
+Are group assignments allowed collaboration?,group_assignments
+can we do it as a group,group_assignments
+ഗ്രൂപ്പായി അസൈൻമെന്റ് ചെയ്യാമോ?,group_assignments
+How to check assignment feedback comments?,assignment_feedback
+view teacher feedback,assignment_feedback
+ടീച്ചറുടെ അഭിപ്രായങ്ങൾ എങ്ങനെ കാണാം?,assignment_feedback
+What is assignment file size limit upload?,assignment_file_size
+max file size for upload,assignment_file_size
+ഫയൽ സൈസ് എത്ര വരെ ആകാം?,assignment_file_size
+Can parents track assignment submission status?,parent_track_assignments
+can my parents see my submissions,parent_track_assignments
+രക്ഷിതാക്കൾക്ക് അസൈൻമെന്റ് വിവരങ്ങൾ കാണാമോ?,parent_track_assignments
+What is assignment evaluation timeline process?,assignment_evaluation_timeline
+how long to grade assignment,assignment_evaluation_timeline
+മാർക്ക് വരാൻ എത്ര സമയം എടുക്കും?,assignment_evaluation_timeline
+Are assignments compulsory pass criteria?,assignment_compulsory_pass
+do i have to pass assignments,assignment_compulsory_pass
+അസൈൻമെന്റ് പാസ്സാകേണ്ടത് നിർബന്ധമാണോ?,assignment_compulsory_pass
+How to request assignment extension approval?,assignment_extension
+need more time for assignment,assignment_extension
+അസൈൻമെന്റ് നൽകാൻ സമയം നീട്ടിത്തരുമോ?,assignment_extension
+What is assignment topic selection guidelines?,assignment_topic_selection
+how to choose topic,assignment_topic_selection
+വിഷയം എങ്ങനെ തിരഞ്ഞെടുക്കാം?,assignment_topic_selection
+Can assignment be submitted offline mode?,offline_assignment_submission
+submit hard copy,offline_assignment_submission
+ഓഫ്‌ലൈനായി സമർപ്പിക്കാമോ?,offline_assignment_submission
+What is assignment marking rubric system?,assignment_marking_rubric
+show me the marking rubric,assignment_marking_rubric
+മാർക്കിംഗ് റൂബ്രിക് എന്താണ്?,assignment_marking_rubric
+Are assignments included final grade calculation?,assignments_final_grade
+do assignments count for final marks,assignments_final_grade
+അസൈൻമെന്റ് മാർക്ക് ഫൈനൽ എക്സാമിൽ കൂടുമോ?,assignments_final_grade
+What is assignment plagiarism checking tool?,plagiarism_checking_tool
+which software checks plagarism,plagiarism_checking_tool
+ഏത് ടൂൾ ഉപയോഗിച്ചാണ് കോപ്പിയടി പരിശോധിക്കുന്നത്?,plagiarism_checking_tool
+Can students skip assignment submission?,skip_assignment
+what if i dont submit,skip_assignment
+അസൈൻമെന്റ് നൽകിയില്ലെങ്കിൽ എന്ത് സംഭവിക്കും?,skip_assignment
+What is assignment revision correction policy?,assignment_revision_policy
+can i revise my work,assignment_revision_policy
+അസൈൻമെന്റ് തിരുത്താൻ സാധിക്കുമോ?,assignment_revision_policy
+Are assignment templates provided institute?,assignment_templates
+is there a cover page template,assignment_templates
+കവർ പേജ് ടെംപ്ലേറ്റ് ഉണ്ടോ?,assignment_templates
+How to contact teacher assignment clarification?,contact_teacher_assignment
+ask teacher about assignment,contact_teacher_assignment
+സംശയങ്ങൾക്ക് ടീച്ചറെ എങ്ങനെ ബന്ധപ്പെടാം?,contact_teacher_assignment
+What is minimum attendance percentage required?,minimum_attendance
+min attendence to pass,minimum_attendance
+എത്ര ശതമാനം ഹാജർ നിർബന്ധമാണ്?,minimum_attendance
+How to check attendance status online?,check_attendance_status
+view my attendance,check_attendance_status
+എന്റെ ഹാജർ എങ്ങനെ ഓൺലൈനിൽ നോക്കാം?,check_attendance_status
+What is attendance shortage penalty rules?,attendance_shortage_penalty
+what happens if attendance is low,attendance_shortage_penalty
+ഹാജർ കുറഞ്ഞാലുള്ള ശിക്ഷ എന്താണ്?,attendance_shortage_penalty
+Can attendance be condoned medical reasons?,medical_attendance_condonation
+medical leave for attendance,medical_attendance_condonation
+മെഡിക്കൽ കാരണം പറഞ്ഞ് അവധി എടുക്കാമോ?,medical_attendance_condonation
+How to apply attendance leave approval?,apply_attendance_leave
+how to apply for leave,apply_attendance_leave
+അവധിക്ക് എങ്ങനെ അപേക്ഷിക്കാം?,apply_attendance_leave
+What is attendance calculation method system?,attendance_calculation_method
+how is attendance calculated,attendance_calculation_method
+ഹാജർ എങ്ങനെയാണ് കണക്കാക്കുന്നത്?,attendance_calculation_method
+Are online classes attendance counted?,online_class_attendance
+do online classes count for attendence,online_class_attendance
+ഓൺലൈൻ ക്ലാസുകൾക്ക് ഹാജർ ഉണ്ടോ?,online_class_attendance
+What is attendance marking system biometric?,biometric_attendance
+is there biometric attendance,biometric_attendance
+ബയോമെട്രിക് ഹാജർ സംവിധാനം ഉണ്ടോ?,biometric_attendance
+Can parents view attendance report daily?,parents_view_attendance
+can parents check attendence,parents_view_attendance
+രക്ഷിതാക്കൾക്ക് ഹാജർ കാണാൻ സാധിക്കുമോ?,parents_view_attendance
+What is attendance defaulter warning policy?,attendance_warning_policy
+shortage of attendance warning,attendance_warning_policy
+ഹാജർ കുറഞ്ഞാൽ മുന്നറിയിപ്പ് ലഭിക്കുമോ?,attendance_warning_policy
+How many leaves allowed attendance criteria?,allowed_leaves_count
+how many days can i take leave,allowed_leaves_count
+എത്ര ദിവസം അവധി എടുക്കാം?,allowed_leaves_count
+What is attendance requirement exam eligibility?,attendance_exam_eligibility
+attendence needed for exams,attendance_exam_eligibility
+പരീക്ഷ എഴുതാൻ എത്ര ഹാജർ വേണം?,attendance_exam_eligibility
+Can attendance be corrected errors report?,attendance_correction
+attendance marked absent by mistake,attendance_correction
+തെറ്റായി ഹാജർ രേഖപ്പെടുത്തിയാൽ മാറ്റാമോ?,attendance_correction
+What is attendance tracking mobile app?,attendance_mobile_app
+app for checking attendance,attendance_mobile_app
+ഹാജർ നോക്കാൻ മൊബൈൽ ആപ്പ് ഉണ്ടോ?,attendance_mobile_app
+Are late entries counted attendance present?,late_entry_attendance
+late to class attendance,late_entry_attendance
+ക്ലാസ്സിൽ വൈകി വന്നാൽ ഹാജർ കിട്ടുമോ?,late_entry_attendance
+What is attendance audit verification process?,attendance_audit
+attendance verification process,attendance_audit
+ഹാജർ പരിശോധിക്കുന്നത് എങ്ങനെയാണ്?,attendance_audit
+Can attendance be transferred between sections?,transfer_attendance
+transfer attendance to new section,transfer_attendance
+സെക്ഷൻ മാറിയാൽ ഹാജർ മാറ്റിക്കിട്ടുമോ?,transfer_attendance
+What is attendance holiday exemption rules?,holiday_attendance_exemption
+do holidays count in attendance,holiday_attendance_exemption
+അവധികൾ ഹാജറിനെ ബാധിക്കുമോ?,holiday_attendance_exemption
+How to download attendance report PDF?,download_attendance_report
+download attendance sheet,download_attendance_report
+ഹാജർ റിപ്പോർട്ട് എങ്ങനെ ഡൗൺലോഡ് ചെയ്യാം?,download_attendance_report
+What is attendance shortage re-evaluation process?,attendance_reevaluation
+recalculate my attendance,attendance_reevaluation
+ഹാജർ വീണ്ടും പരിശോധിക്കാൻ കഴിയുമോ?,attendance_reevaluation
+Are practical classes attendance compulsory?,practical_class_attendance
+is lab attendance strict,practical_class_attendance
+പ്രാക്ടിക്കൽ ക്ലാസുകൾക്ക് ഹാജർ നിർബന്ധമാണോ?,practical_class_attendance
+What is attendance grace marks policy?,attendance_grace_marks
+grace marks for full attendance,attendance_grace_marks
+മുഴുവൻ ഹാജർ ഉണ്ടെങ്കിൽ ഗ്രേസ് മാർക്ക് കിട്ടുമോ?,attendance_grace_marks
+How attendance affects internal marks grading?,attendance_internal_marks
+marks for attendance,attendance_internal_marks
+ഹാജർ ഇന്റേണൽ മാർക്കിനെ ബാധിക്കുമോ?,attendance_internal_marks
+Can attendance be waived special cases?,attendance_waiver
+attendance waiver for sports,attendance_waiver
+പ്രത്യേക സാഹചര്യങ്ങളിൽ ഹാജർ ഇളവ് ലഭിക്കുമോ?,attendance_waiver
+What is attendance policy for internships?,internship_attendance_policy
+attendance during internship,internship_attendance_policy
+ഇന്റേൺഷിപ്പ് സമയത്തെ ഹാജർ എങ്ങനെയാണ്?,internship_attendance_policy
+What is exam rules regulations policy?,exam_rules_policy
+what are the rules for exams,exam_rules_policy
+പരീക്ഷാ നിയമങ്ങൾ എന്തൊക്കെയാണ്?,exam_rules_policy
+How to apply exam hall ticket?,apply_hall_ticket
+where to get hallticket,apply_hall_ticket
+ഹാൾ ടിക്കറ്റിന് എങ്ങനെ അപേക്ഷിക്കാം?,apply_hall_ticket
+What is exam revaluation process steps?,exam_revaluation_process
+how to apply for rechecking,exam_revaluation_process
+റീവാല്യുവേഷൻ എങ്ങനെ ചെയ്യാം?,exam_revaluation_process
+Are calculators allowed exam hall rules?,calculators_in_exam
+can i use calculator,calculators_in_exam
+പരീക്ഷാ ഹാളിൽ കാൽക്കുലേറ്റർ അനുവദിക്കുമോ?,calculators_in_exam
+What is exam malpractice penalty actions?,exam_malpractice_penalty
+punishment for cheating in exam,exam_malpractice_penalty
+പരീക്ഷയ്ക്ക് കോപ്പിയടിച്ചാലുള്ള ശിക്ഷ എന്താണ്?,exam_malpractice_penalty
+How to check exam results online?,check_exam_results
+where to see my results,check_exam_results
+പരീക്ഷാ ഫലം എങ്ങനെ പരിശോധിക്കാം?,check_exam_results
+What is exam retest supplementary policy?,exam_supplementary_policy
+supply exam rules,exam_supplementary_policy
+സപ്ലിമെന്ററി പരീക്ഷയുടെ നിയമങ്ങൾ എന്താണ്?,exam_supplementary_policy
+Are parents allowed exam center entry?,parents_exam_center
+can my mom come to exam center,parents_exam_center
+രക്ഷിതാക്കൾക്ക് പരീക്ഷാ ഹാളിൽ വരാമോ?,parents_exam_center
+What is exam duration question pattern?,exam_duration_pattern
+how many hours is the exam,exam_duration_pattern
+പരീക്ഷ എത്ര മണിക്കൂർ ആണ്?,exam_duration_pattern
+How to download exam timetable schedule?,download_exam_timetable
+where is the exam timetable,download_exam_timetable
+പരീക്ഷാ ടൈംടേബിൾ എങ്ങനെ ഡൗൺലോഡ് ചെയ്യാം?,download_exam_timetable
+What is exam attendance requirement rules?,exam_attendance_rules
+attendance to write exam,exam_attendance_rules
+പരീക്ഷ എഴുതാൻ എത്ര ഹാജർ വേണം?,exam_attendance_rules
+Can exam be postponed medical emergency?,postpone_exam_medical
+missed exam due to fever,postpone_exam_medical
+അസുഖം കാരണം പരീക്ഷ മാറ്റിവെക്കാമോ?,postpone_exam_medical
+What is exam answer sheet evaluation method?,exam_evaluation_method
+how are papers corrected,exam_evaluation_method
+പരീക്ഷാ പേപ്പർ എങ്ങനെയാണ് നോക്കുന്നത്?,exam_evaluation_method
+Are open book exams allowed subjects?,open_book_exams
+is it an open book exam,open_book_exams
+ഓപ്പൺ ബുക്ക് പരീക്ഷകൾ ഉണ്ടോ?,open_book_exams
+What is exam grading moderation policy?,exam_grading_moderation
+do they give moderation marks,exam_grading_moderation
+മോഡറേഷൻ മാർക്ക് ലഭിക്കുമോ?,exam_grading_moderation
+How to apply exam improvement attempt?,exam_improvement_attempt
+write improvement exam,exam_improvement_attempt
+ഇമ്പ്രൂവ്മെന്റ് പരീക്ഷയ്ക്ക് എങ്ങനെ അപേക്ഷിക്കാം?,exam_improvement_attempt
+What is exam center location details?,exam_center_location
+where is my exam center,exam_center_location
+എന്റെ പരീക്ഷാ കേന്ദ്രം എവിടെയാണ്?,exam_center_location
+Are mobile phones allowed exam hall?,mobile_phones_in_exam
+can i take my phone to exam,mobile_phones_in_exam
+മൊബൈൽ ഫോൺ പരീക്ഷാ ഹാളിൽ കൊണ്ടുപോകാമോ?,mobile_phones_in_exam
+What is exam invigilator rules instructions?,exam_invigilator_instructions
+invigilator strictness,exam_invigilator_instructions
+ഇൻവിജിലേറ്ററുടെ നിയമങ്ങൾ എന്തൊക്കെയാണ്?,exam_invigilator_instructions
+What is the procedure to report exam discrepancies?,report_exam_discrepancy
+report mistake in question paper,report_exam_discrepancy
+പരീക്ഷാ ചോദ്യപേപ്പറിൽ തെറ്റുണ്ടെങ്കിൽ എന്തുചെയ്യണം?,report_exam_discrepancy
+What is the supplementary exam registration process?,supplementary_registration
+how to apply for supply,supplementary_registration
+സപ്ലിമെന്ററി പരീക്ഷയ്ക്ക് എങ്ങനെ അപേക്ഷിക്കാം?,supplementary_registration
+Are students allowed to choose their exam center?,choose_exam_center
+can i pick my exam center,choose_exam_center
+എനിക്ക് പരീക്ഷാ കേന്ദ്രം തിരഞ്ഞെടുക്കാമോ?,choose_exam_center
+What are the minimum passing marks for exams?,exam_pass_criteria
+passing marks for exam,exam_pass_criteria
+ജയിക്കാൻ എത്ര മാർക്ക് വേണം?,exam_pass_criteria
+Are the proctoring rules strict for online exams?,online_exam_proctoring
+is online exam strictly monitored,online_exam_proctoring
+ഓൺലൈൻ പരീക്ഷയ്ക്ക് നിരീക്ഷണം കർശനമാണോ?,online_exam_proctoring
+What is the procedure to report exam malpractice?,report_exam_malpractice
+how to report copying in exam,report_exam_malpractice
+പരീക്ഷയ്ക്ക് കോപ്പിയടിക്കുന്നത് എങ്ങനെ റിപ്പോർട്ട് ചെയ്യാം?,report_exam_malpractice
+How is the CGPA calculated in the grading system?,cgpa_calculation
+how is cgpa calculated,cgpa_calculation
+CGPA എങ്ങനെയാണ് കണക്കാക്കുന്നത്?,cgpa_calculation
+How are the internal assessment marks calculated?,internal_marks_calculation
+how do u calculate internal marks,internal_marks_calculation
+ഇന്റേണൽ മാർക്ക് എങ്ങനെയാണ് നൽകുന്നത്?,internal_marks_calculation
+How do I convert my grading scale to a percentage?,percentage_conversion
+convert cgpa to percentage,percentage_conversion
+CGPA ശതമാനത്തിലേക്ക് എങ്ങനെ മാറ്റാം?,percentage_conversion
+Are assignments included in the final grading evaluation?,assignments_in_grading
+do assignments count for grades,assignments_in_grading
+ഗ്രേഡിംഗിൽ അസൈൻമെന്റ് മാർക്ക് കൂട്ടുമോ?,assignments_in_grading
+What are the rules regarding grading transparency?,grading_transparency
+can i see my corrected paper,grading_transparency
+എന്റെ ഉത്തരക്കടലാസ് കാണാൻ സാധിക്കുമോ?,grading_transparency
+What is the best strategy to improve my grades?,improve_grades
+how to get better grades,improve_grades
+മാർക്ക് കൂട്ടാൻ എന്ത് ചെയ്യണം?,improve_grades
+What is the weightage given to exams versus assignments?,grading_weightage
+weightage for internal and external,grading_weightage
+ഇന്റേണൽ ഫൈനൽ മാർക്കുകളുടെ അനുപാതം എത്രയാണ്?,grading_weightage
+Are practical marks included in the overall grading system?,practical_marks_grading
+are lab marks added to final grade,practical_marks_grading
+പ്രാക്ടിക്കൽ മാർക്ക് കൂട്ടുമോ?,practical_marks_grading
+What is the policy and process for grading revaluation?,grading_revaluation_policy
+apply for revaluation,grading_revaluation_policy
+റീവാല്യുവേഷന് എങ്ങനെ അപേക്ഷിക്കാം?,grading_revaluation_policy
+How can I check my grade card on the online portal?,check_grade_card
+where to view grade card,check_grade_card
+ഗ്രേഡ് കാർഡ് എവിടെ കാണാം?,check_grade_card
+What are the required marks for distinction criteria?,distinction_criteria
+cgpa needed for distinction,distinction_criteria
+ഡിസ്റ്റിംഗ്ഷൻ കിട്ടാൻ എത്ര മാർക്ക് വേണം?,distinction_criteria
+Will my grades be affected by an attendance shortage?,grades_affected_attendance
+will low attendance reduce marks,grades_affected_attendance
+ഹാജർ കുറഞ്ഞാൽ മാർക്ക് കുറയുമോ?,grades_affected_attendance
+What is the verification method for grading audits?,grading_audit
+how are grades verified,grading_audit
+ഗ്രേഡുകൾ എങ്ങനെയാണ് പരിശോധിക്കുന്നത്?,grading_audit
+How do I convert my CGPA marks into a percentage?,convert_cgpa_percentage
+cgpa to percentage formula,convert_cgpa_percentage
+CGPA ശതമാനമാക്കുന്ന ഫോർമുല എന്താണ്?,convert_cgpa_percentage
+What are the rules for grading moderation adjustments?,grading_moderation
+do we get moderation marks,grading_moderation
+മോഡറേഷൻ മാർക്ക് കിട്ടുമോ?,grading_moderation
+Are bonus marks added to the grading system?,bonus_marks
+is there any bonus marks,bonus_marks
+ബോണസ് മാർക്ക് ഉണ്ടോ?,bonus_marks
+What are the criteria for failing a subject?,grading_failure_criteria
+minimum marks to avoid fail,grading_failure_criteria
+തോൽക്കാതിരിക്കാൻ എത്ര മാർക്ക് വേണം?,grading_failure_criteria
+How do I request a correction for a grading issue?,grade_correction
+mistake in my grade card,grade_correction
+ഗ്രേഡ് കാർഡിലെ തെറ്റ് എങ്ങനെ തിരുത്താം?,grade_correction
+What is the policy for grading improvement attempts?,grading_improvement_attempts
+how many times can i write improvement,grading_improvement_attempts
+എത്ര തവണ ഇമ്പ്രൂവ്മെന്റ് എഴുതാം?,grading_improvement_attempts
+Are grades shared with parents through the access portal?,grades_shared_parents
+will parents get my marks,grades_shared_parents
+മാർക്ക് ലിസ്റ്റ് രക്ഷിതാക്കൾക്ക് അയക്കുമോ?,grades_shared_parents
+How can I check the schedule for my class timetable?,check_class_timetable
+where is the class timetable,check_class_timetable
+ക്ലാസ് ടൈംടേബിൾ എവിടെ നോക്കണം?,check_class_timetable
+What is the notification system for timetable updates?,timetable_update_notification
+how will i know if timetable changes,timetable_update_notification
+ടൈംടേബിൾ മാറിയാൽ എങ്ങനെ അറിയാം?,timetable_update_notification
+Are students informed about any timetable changes?,timetable_changes_informed
+do u inform about cancelled classes,timetable_changes_informed
+ക്ലാസ് മാറ്റിയാൽ അറിയിക്കുമോ?,timetable_changes_informed
+What are the timing details for the lab schedule?,lab_schedule_timing
+lab timings,lab_schedule_timing
+ലാബ് സമയം എപ്പോഴാണ്?,lab_schedule_timing
+How do I download the timetable as a PDF file?,download_timetable_pdf
+how to get timetable pdf,download_timetable_pdf
+ടൈംടേബിൾ PDF എങ്ങനെ കിട്ടും?,download_timetable_pdf
+What is the availability of the weekend class schedule?,weekend_class_schedule
+do we have class on saturday,weekend_class_schedule
+"ശനി, ഞായർ ദിവസങ്ങളിൽ ക്ലാസ് ഉണ്ടോ?",weekend_class_schedule
+Are extra classes scheduled on holidays?,extra_classes_holidays
+class on public holidays,extra_classes_holidays
+അവധി ദിവസങ്ങളിൽ ക്ലാസ് ഉണ്ടോ?,extra_classes_holidays
+What is the process for resolving a timetable clash?,timetable_clash_resolution
+two classes at same time,timetable_clash_resolution
+രണ്ട് ക്ലാസുകൾ ഒരേ സമയത്ത് വന്നാൽ എന്തുചെയ്യും?,timetable_clash_resolution
+How can I view the timetable allocation for faculty?,view_faculty_timetable
+teachers free time,view_faculty_timetable
+ടീച്ചർമാരുടെ ടൈംടേബിൾ എവിടെ കിട്ടും?,view_faculty_timetable
+What is the timing period for a single class duration?,class_duration_period
+how long is one period,class_duration_period
+ഒരു ക്ലാസ് എത്ര സമയമാണ്?,class_duration_period
+Are online class timings different from the regular schedule?,online_class_timings
+time for online classes,online_class_timings
+ഓൺലൈൻ ക്ലാസ്സുകളുടെ സമയം എപ്പോഴാണ്?,online_class_timings
+What is the semester-wise plan for the timetable?,semester_timetable_plan
+whole semester schedule,semester_timetable_plan
+ഈ സെമസ്റ്ററിലെ ടൈംടേബിൾ എപ്പോഴാണ് വരിക?,semester_timetable_plan
+How do I request an approval for a timetable change?,request_timetable_change
+can we change class timings,request_timetable_change
+ക്ലാസ് സമയം മാറ്റാൻ കഴിയുമോ?,request_timetable_change
+When is the announcement date for the exam timetable?,exam_timetable_announcement
+when will exam dates come,exam_timetable_announcement
+പരീക്ഷാ ടൈംടേബിൾ എപ്പോഴാണ് വരിക?,exam_timetable_announcement
+Are remedial classes scheduled as extra sessions?,remedial_classes_schedule
+time for special classes,remedial_classes_schedule
+റെമഡിയൽ ക്ലാസുകൾ എപ്പോഴാണ്?,remedial_classes_schedule
+Is there a mobile app for timetable notifications?,timetable_mobile_app
+is there an app for timetable,timetable_mobile_app
+ടൈംടേബിൾ അറിയാൻ ആപ്പ് ഉണ്ടോ?,timetable_mobile_app
+How can I track updates to the daily class schedule?,track_daily_schedule
+todays classes,track_daily_schedule
+ഇന്നത്തെ ക്ലാസുകൾ ഏതൊക്കെയാണ്?,track_daily_schedule
+What are the rules for adjusting the timetable for holidays?,holiday_timetable_adjustment
+compensatory class rules,holiday_timetable_adjustment
+അവധിക്ക് പകരമുള്ള ക്ലാസ് എപ്പോഴാണ്?,holiday_timetable_adjustment
+Are timetable conflicts allowed between elective subjects?,timetable_conflicts_electives
+elective subjects clash,timetable_conflicts_electives
+ഇലക്ടീവ് വിഷയങ്ങൾ തമ്മിൽ ക്ലാഷ് ഉണ്ടോ?,timetable_conflicts_electives
+What are the policy rules regarding timetable flexibility?,timetable_flexibility
+can i choose my class time,timetable_flexibility
+എനിക്ക് ക്ലാസ് സമയം തിരഞ്ഞെടുക്കാമോ?,timetable_flexibility
+How can I find a faculty member's contact email address?,contact_faculty_email
+teachers email id,contact_faculty_email
+ടീച്ചർമാരുടെ ഇമെയിൽ എങ്ങനെ കിട്ടും?,contact_faculty_email
+What is the schedule for faculty office hours?,faculty_office_hours
+when to meet teachers,faculty_office_hours
+ടീച്ചറെ എപ്പോഴാണ് കാണാൻ കഴിയുക?,faculty_office_hours
+How do I book an appointment to meet a teacher?,meet_teacher_appointment
+how to book appointment with sir,meet_teacher_appointment
+ടീച്ചറെ കാണാൻ എങ്ങനെ മുൻകൂർ അനുമതി വാങ്ങാം?,meet_teacher_appointment
+What is the contact phone number for the faculty?,faculty_phone_number
+give me teachers phone number,faculty_phone_number
+ടീച്ചറുടെ ഫോൺ നമ്പർ തരാമോ?,faculty_phone_number
+Are parents allowed to meet with faculty for discussions?,parents_meet_faculty
+can parents meet teachers,parents_meet_faculty
+രക്ഷിതാക്കൾക്ക് ടീച്ചറെ കാണാമോ?,parents_meet_faculty
+What is the process for submitting faculty feedback?,faculty_feedback_process
+how to give feedback on teacher,faculty_feedback_process
+ടീച്ചറെക്കുറിച്ചുള്ള അഭിപ്രായം എങ്ങനെ അറിയിക്കാം?,faculty_feedback_process
+How do I report an issue or complaint about a faculty member?,report_faculty_complaint
+complain about a teacher,report_faculty_complaint
+ടീച്ചറെക്കുറിച്ച് പരാതി നൽകാൻ എന്ത് ചെയ്യണം?,report_faculty_complaint
+What is the student support process for mentor allocation?,mentor_allocation_support
+who is my mentor,mentor_allocation_support
+എന്റെ മെന്റർ ആരാണ്?,mentor_allocation_support
+Are faculty members available for online consultations?,faculty_online_consultation
+can i talk to teacher online,faculty_online_consultation
+ടീച്ചറുമായി ഓൺലൈനിൽ സംസാരിക്കാമോ?,faculty_online_consultation
+What is the expected communication response time for faculty?,faculty_response_time
+how long for teacher to reply email,faculty_response_time
+ഇമെയിൽ അയച്ചാൽ ടീച്ചർ എപ്പോൾ മറുപടി തരും?,faculty_response_time
+How can I contact the office of the department head?,contact_department_head
+how to meet hod,contact_department_head
+HOD യെ എങ്ങനെ കാണാം?,contact_department_head
+What are the responsibilities of a faculty advisory role?,faculty_advisory_role
+what does academic advisor do,faculty_advisory_role
+അഡ്വൈസറുടെ ചുമതലകൾ എന്തൊക്കെയാണ്?,faculty_advisory_role
+Are faculty meetings scheduled with parents?,faculty_meetings_parents
+pta meeting schedule,faculty_meetings_parents
+PTA മീറ്റിംഗ് എപ്പോഴാണ്?,faculty_meetings_parents
+What is the feedback system used for faculty evaluation?,faculty_evaluation_system
+rate the teaching,faculty_evaluation_system
+ടീച്ചർമാരെ എങ്ങനെ വിലയിരുത്താം?,faculty_evaluation_system
+How do I request a recommendation letter from a faculty member?,request_recommendation_letter
+how to get LOR from teacher,request_recommendation_letter
+ടീച്ചറിൽ നിന്ന് റെക്കമെൻഡേഷൻ ലെറ്റർ എങ്ങനെ വാങ്ങാം?,request_recommendation_letter
+Where can I find the academic rules and regulations handbook?,academic_handbook
+where is the rulebook,academic_handbook
+കോളേജ് നിയമങ്ങൾ എവിടെ വായിക്കാം?,academic_handbook
+What is the promotion policy for the next semester?,promotion_policy_semester
+rules to go to next semester,promotion_policy_semester
+അടുത്ത സെമസ്റ്ററിലേക്ക് പോകാനുള്ള നിയമങ്ങൾ എന്താണ്?,promotion_policy_semester
+Are students allowed to take a leave during the semester break?,semester_break_leave
+holidays between semesters,semester_break_leave
+സെമസ്റ്ററുകൾക്കിടയിൽ അവധിയുണ്ടോ?,semester_break_leave
+What are the rules for the academic misconduct policy?,academic_misconduct_policy
+punishment for misbehavior,academic_misconduct_policy
+അച്ചടക്കലംഘനത്തിനുള്ള ശിക്ഷ എന്താണ്?,academic_misconduct_policy
+How do I apply for the course withdrawal process?,course_withdrawal_process
+how to drop a subject,course_withdrawal_process
+ഒരു വിഷയം ഒഴിവാക്കാൻ എന്ത് ചെയ്യണം?,course_withdrawal_process
+What are the details regarding academic probation criteria?,academic_probation_criteria
+what is academic probation,academic_probation_criteria
+അക്കാദമിക് പ്രൊബേഷൻ എന്നാൽ എന്താണ്?,academic_probation_criteria
+Are students allowed re-admission under the policy?,readmission_policy
+how to rejoin college,readmission_policy
+കോളേജിൽ വീണ്ടും ചേരാൻ കഴിയുമോ?,readmission_policy
+What are the rules regarding the credit transfer policy?,credit_transfer_policy
+transfer credits from another college,credit_transfer_policy
+മറ്റൊരു കോളേജിൽ നിന്ന് ക്രെഡിറ്റ് മാറ്റാമോ?,credit_transfer_policy
+How do I process an appeal for academic decisions?,appeal_academic_decision
+appeal against poor grades,appeal_academic_decision
+ഗ്രേഡിനെതിരെ അപ്പീൽ നൽകാൻ എന്ത് ചെയ്യണം?,appeal_academic_decision
+What are the guidelines for the academic integrity policy?,academic_integrity_policy
+rules on cheating and plagarism,academic_integrity_policy
+കോപ്പിയടിക്കുന്നതിനെതിരെയുള്ള നിയമങ്ങൾ?,academic_integrity_policy
+What is the deadline date for fee payment?,fee_payment_deadline
+last date to pay fees,fee_payment_deadline
+ഫീസ് അടക്കേണ്ട അവസാന തീയതി എന്നാണ്?,fee_payment_deadline
+How do I pay my fees on the online portal?,pay_fees_online
+link to pay college fees,pay_fees_online
+ഓൺലൈനായി ഫീസ് എങ്ങനെ അടക്കാം?,pay_fees_online
+What are the rules regarding the fee refund policy?,fee_refund_policy
+can i get my fees back,fee_refund_policy
+അടച്ച ഫീസ് തിരികെ കിട്ടുമോ?,fee_refund_policy
+Are installment options available for paying fees?,fee_installment_options
+pay fees in parts,fee_installment_options
+ഫീസ് തവണകളായി അടക്കാമോ?,fee_installment_options
+What are the penalty charges for a late fee?,late_fee_penalty
+fine for late fee payment,late_fee_penalty
+ഫീസ് വൈകിയാൽ ഫൈൻ അടക്കണമോ?,late_fee_penalty
+How do I download the invoice for my fee receipt?,download_fee_receipt
+where is my fee receipt,download_fee_receipt
+ഫീസ് രസീത് എങ്ങനെ ഡൗൺലോഡ് ചെയ്യാം?,download_fee_receipt
+What are the eligibility criteria for getting a scholarship?,scholarship_eligibility
+who gets scholarship,scholarship_eligibility
+സ്കോളർഷിപ്പിന് അപേക്ഷിക്കാൻ എന്താണ് യോഗ്യത?,scholarship_eligibility
+Are parents allowed access to make fee payments?,parents_fee_payment
+can my parents pay the fees,parents_fee_payment
+രക്ഷിതാക്കൾക്ക് ഫീസ് അടക്കാൻ കഴിയുമോ?,parents_fee_payment
+Is the hostel fee included in the overall course fee?,hostel_fee_included
+is hostel fee in tuition fee,hostel_fee_included
+ട്യൂഷൻ ഫീസിൽ ഹോസ്റ്റൽ ഫീസ് ഉൾപ്പെട്ടിട്ടുണ്ടോ?,hostel_fee_included
+How can I apply to request a fee concession?,apply_fee_concession
+how to get fee discount,apply_fee_concession
+ഫീസ് ഇളവ് ലഭിക്കാൻ എന്ത് ചെയ്യണം?,apply_fee_concession
+What are the available hours to access the library facilities?,library_access_hours
+library timings,library_access_hours
+ലൈബ്രറി സമയം എപ്പോഴാണ്?,library_access_hours
+How do I use the login to access campus wifi?,campus_wifi_login
+whats the wifi password,campus_wifi_login
+ക്യാമ്പസ് വൈഫൈ എങ്ങനെ ഉപയോഗിക്കാം?,campus_wifi_login
+What support services are available for student counseling?,student_counseling_services
+is there a counselor on campus,student_counseling_services
+കോളേജിൽ കൗൺസിലിംഗ് സൗകര്യമുണ്ടോ?,student_counseling_services
+Are there medical facilities available on the campus?,medical_facilities_campus
+what if i fall sick on campus,medical_facilities_campus
+ക്യാമ്പസിൽ ഡോക്ടർ ഉണ്ടോ?,medical_facilities_campus
+What are the route details for the transport facility?,transport_facility_routes
+college bus routes,transport_facility_routes
+കോളേജ് ബസ് ഏതൊക്കെ റൂട്ടിലാണ് പോകുന്നത്?,transport_facility_routes
+How can I access the booking for lab equipment?,lab_equipment_booking
+how to book lab tools,lab_equipment_booking
+ലാബിലെ ഉപകരണങ്ങൾ എങ്ങനെ ബുക്ക് ചെയ്യാം?,lab_equipment_booking
+What are the accommodation details for the hostel facility?,hostel_facility_details
+rooms in hostel,hostel_facility_details
+ഹോസ്റ്റലിലെ സൗകര്യങ്ങൾ എന്തൊക്കെയാണ്?,hostel_facility_details
+Are sports facilities available for the students?,sports_facilities_students
+do we have a gym,sports_facilities_students
+കായിക വിനോദങ്ങൾക്കുള്ള സൗകര്യങ്ങൾ എന്തൊക്കെയാണ്?,sports_facilities_students
+What training programs are provided for placement support?,placement_support_training
+do u give placement training,placement_support_training
+പ്ലേസ്മെന്റ് ട്രെയിനിങ് നൽകുമോ?,placement_support_training
+How do I report an issue regarding facility maintenance?,report_maintenance_issue
+AC is not working in class,report_maintenance_issue
+ക്ലാസ്സിൽ എന്തെങ്കിലും കേടുപാടുകൾ ഉണ്ടെങ്കിൽ ആരോട് പറയണം?,report_maintenance_issue
+What is the schedule for the hostel mess food menu?,hostel_mess_menu
+food menu in hostel,hostel_mess_menu
+ഹോസ്റ്റലിലെ ഭക്ഷണ മെനു എന്താണ്?,hostel_mess_menu
+What are the timings for breakfast,lunch and dinner in the hostel?
+time for lunch in mess,hostel_meal_timings
+ഭക്ഷണം കഴിക്കാനുള്ള സമയങ്ങൾ ഏതൊക്കെയാണ്?,hostel_meal_timings
+Are vegetarian and non-vegetarian food options available in the hostel?,hostel_food_options
+is veg food available,hostel_food_options
+വെജ് ഭക്ഷണം ലഭ്യമാണോ?,hostel_food_options
+What is the quality standard for the hostel mess food?,hostel_food_quality
+is the mess food good,hostel_food_quality
+മെസ്സിലെ ഭക്ഷണം നല്ലതാണോ?,hostel_food_quality
+Are there special menu days available in the hostel mess?,hostel_special_menu
+any special food on festivals,hostel_special_menu
+വിശേഷ ദിവസങ്ങളിൽ സ്പെഷ്യൽ ഭക്ഷണം ഉണ്ടോ?,hostel_special_menu
+What are the charges for the hostel mess fee?,hostel_mess_fee
+how much for mess bill,hostel_mess_fee
+മെസ്സ് ഫീസ് എത്രയാണ്?,hostel_mess_fee
+What are the structure details for the hostel accommodation fee?,hostel_accommodation_fee
+hostel rent,hostel_accommodation_fee
+ഹോസ്റ്റൽ ഫീസ് എത്രയാണ്?,hostel_accommodation_fee
+What is the last date to make a hostel fee payment?,hostel_fee_deadline
+last date for hostel fees,hostel_fee_deadline
+ഹോസ്റ്റൽ ഫീസ് അടക്കേണ്ട അവസാന തീയതി എന്നാണ്?,hostel_fee_deadline
+How can I pay my hostel fees via the online portal?,pay_hostel_fees_online
+pay hostel bill online,pay_hostel_fees_online
+ഓൺലൈനായി ഹോസ്റ്റൽ ഫീസ് അടക്കാമോ?,pay_hostel_fees_online
+What are the rules regarding the hostel fee refund policy?,hostel_fee_refund
+hostel fee refund rules,hostel_fee_refund
+ഹോസ്റ്റൽ ഫീസ് തിരികെ കിട്ടുമോ?,hostel_fee_refund
+Is there a wifi internet facility available in the hostel?,hostel_wifi_facility
+is there wifi in hostel room,hostel_wifi_facility
+ഹോസ്റ്റലിൽ വൈഫൈ ഉണ്ടോ?,hostel_wifi_facility
+Where is the laundry facility located in the hostel?,hostel_laundry_location
+where to wash clothes in hostel,hostel_laundry_location
+ഹോസ്റ്റലിൽ വസ്ത്രങ്ങൾ അലക്കാൻ സൗകര്യമുണ്ടോ?,hostel_laundry_location
+Is there a study room facility available in the hostel?,hostel_study_room
+reading room in hostel,hostel_study_room
+ഹോസ്റ്റലിൽ പഠിക്കാൻ പ്രത്യേക മുറിയുണ്ടോ?,hostel_study_room
+Is there a parking area available for students at the hostel?,hostel_parking_area
+can i park my bike at hostel,hostel_parking_area
+ഹോസ്റ്റലിൽ വണ്ടി പാർക്ക് ചെയ്യാൻ സൗകര്യമുണ്ടോ?,hostel_parking_area
